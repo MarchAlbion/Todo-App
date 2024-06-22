@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+This is a ToDo application built using React, TypeScript, SCSS, to manage tasks. 
+The purpose of this app is to help users manage their daily tasks effectively.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Add, edit, and delete tasks
+Mark tasks as complete or incomplete
